@@ -1,0 +1,1 @@
+Este repositório contém anotações, exemplos e exercícios práticos realizados durante meus estudos sobre SQL (Structured Query Language). O objetivo é consolidar os aprendizados fundamentais sobre bancos de dados relacionais e comandos SQL.
