@@ -1,1 +1,15 @@
 Este repositório contém anotações, exemplos e exercícios práticos realizados durante meus estudos sobre SQL (Structured Query Language). O objetivo é consolidar os aprendizados fundamentais sobre bancos de dados relacionais e comandos SQL.
+
+🧠 Conceitos abordados:
+Criação de tabelas (CREATE TABLE)
+
+Inserção de dados (INSERT INTO)
+
+Consultas simples e com filtros (SELECT, WHERE)
+
+Atualização e remoção de registros (UPDATE, DELETE)
+
+Relacionamento entre tabelas
+
+🛠 Ferramentas:
+MySQL e DBeaver
