@@ -5,7 +5,7 @@ Criação de tabelas (CREATE TABLE)
 
 Inserção de dados (INSERT INTO)
 
-Consultas simples e com filtros (SELECT, WHERE)
+Consultas simples e com filtros (SELECT, JOIN)
 
 Atualização e remoção de registros (UPDATE, DELETE)
 
